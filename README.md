@@ -112,12 +112,21 @@ git clone https://github.com/lakshmansundarm/amazon-seller-central.git
 
 ## Screenshots
 
-Add screenshots of:
+### Home Page
 
-* Home Page
-* Add Seller Form
-* View Sellers Page
-* Update Seller Page
+![Home Page](screenshots/home-page.png)
+
+### Add Seller Form
+
+![Add Seller Form](screenshots/add-seller.png)
+
+### View Sellers Page
+
+![View Sellers Page](screenshots/view-sellers.png)
+
+### Update Seller Page
+
+![Update Seller Page](screenshots/update-seller.png)
 
 ## Learning Outcomes
 
